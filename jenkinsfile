@@ -1,0 +1,24 @@
+pipeline {
+    agent any
+
+    stages {
+
+        stage('Build') {
+            steps {
+                echo 'Build no configurado'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                echo 'Testing no configurado'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deploy simple ejecutado'
+            }
+        }
+    }
+}
