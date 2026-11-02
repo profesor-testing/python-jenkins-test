@@ -25,5 +25,5 @@ print(f"Procesador    : {procesador}")
 
 print("===================================")
 print("Programa ejecutado correctamente")
-print("Modificado el Lunes 02-11-2026 11:00")
+print("Modificado el Lunes 02-11-2026 11:14")
 print("===================================")
